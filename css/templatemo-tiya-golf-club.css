@@ -643,7 +643,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('/images/images (23).jpeg');
+  background-image: url("../images/images (23).jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -696,7 +696,7 @@ strong {
   BACKGROUND IMAGE SECTION        
 -----------------------------------------*/
 .section-bg-image {
-  background-image: url('/images/images (18).jpeg');
+  background-image: url("../images/images (18).jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
